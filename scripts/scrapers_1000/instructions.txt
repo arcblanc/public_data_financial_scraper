@@ -1,0 +1,3 @@
+cd bursa_dataset_and_cleaning/scripts/scrapers_1000 
+source venv/bin/activate
+python income_statement.py

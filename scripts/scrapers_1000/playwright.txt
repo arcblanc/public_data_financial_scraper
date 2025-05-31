@@ -1,0 +1,11 @@
+You need to use playwright locally so reopen the folder locally and do this 
+
+in this order: terminal
+
+brew install node
+
+npm install -g playwright
+npx playwright codegen https://my.bursamalaysia.com/stock-details?stockcode=PLSB.KL
+
+
+This allows you to record all your strokes
